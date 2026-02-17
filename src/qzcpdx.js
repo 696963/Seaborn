@@ -1,0 +1,3 @@
+// .env
+SECRET_KEY=12b3t6i424p1
+API_KEY=12b3t6i424p1
